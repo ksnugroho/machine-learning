@@ -19,7 +19,7 @@ Kode dibawah ini executable dan viewable yang tersedia di **Jupyter Notebook**.
 1. [Scikit Learn](https://scikit-learn.org) - Machine learning library for Python.
 
 ## Dataset
-Dataset yang digunakan adalah **iris dataset** yang sudah tersedia di library `scikit learn`.
+Dataset yang digunakan adalah **[iris dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)** yang sudah tersedia di library `scikit learn`.
 
 <img src="https://github.com/ksnugroho/machine-learning/blob/master/Iris%20Dataset.png" width="500">
 
