@@ -20,7 +20,7 @@ Kode dibawah ini executable dan viewable yang tersedia di **Jupyter Notebook**.
 
 ## Dataset
 Dataset yang digunakan adalah **iris dataset** yang sudah tersedia di library `scikit learn`.
-[![Iris Dataset](https://github.com/ksnugroho/machine-learning/blob/master/Iris%20Dataset.png)
+[![Iris Dataset](https://github.com/ksnugroho/machine-learning/blob/master/Iris%20Dataset.png){:height="50%" width="50%"}
 
 ## Result
 Hasil ujicoba 7 algoritma yang digunakan untuk klasifikasi dataset iris dapat digambarkan ke sebuah tabel sebagai berikut:
